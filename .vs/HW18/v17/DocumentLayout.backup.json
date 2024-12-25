@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\interfaces\\categories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\interfaces\\categories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\views\\product\\getproductsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\views\\product\\getproductsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\repositories\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\repositories\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\interfaces\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\interfaces\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\interfaces\\products\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\interfaces\\products\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\inmemmorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\inmemmorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\interfaces\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\interfaces\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|c:\\users\\big\\onedrive\\desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\hw18\\hw18\\models\\interfaces\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDE2979-D5C7-4B7A-99F5-89B8E82EA692}|HW18\\HW18.csproj|solutionrelative:hw18\\models\\interfaces\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProductsByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Product\\GetProductsByCategory.cshtml",
+              "RelativeDocumentMoniker": "HW18\\Views\\Product\\GetProductsByCategory.cshtml",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Product\\GetProductsByCategory.cshtml",
+              "RelativeToolTip": "HW18\\Views\\Product\\GetProductsByCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T20:12:09.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\Categories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Interfaces\\Categories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\Categories\\ICategoryRepository.cs",
+              "RelativeToolTip": "HW18\\Models\\Interfaces\\Categories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:04:51.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "HW18\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "HW18\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:27:42.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Repositories\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Repositories\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Repositories\\ProductsRepository.cs",
+              "RelativeToolTip": "HW18\\Models\\Repositories\\ProductsRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:21:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "HW18\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "HW18\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:08:26.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "HW18\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "HW18\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T18:21:10.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HW18\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HW18\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T18:21:53.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "HW18\\Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:05:11.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Repositories\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Repositories\\CategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Repositories\\CategoriesRepository.cs",
+              "RelativeToolTip": "HW18\\Models\\Repositories\\CategoriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:20:36.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "HW18\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "HW18\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:45:54.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Services\\ProductService.cs",
+              "RelativeToolTip": "HW18\\Models\\Services\\ProductService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:25:38.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HW18\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HW18\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:23:39.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\Products\\IProductService.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Interfaces\\Products\\IProductService.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\Products\\IProductService.cs",
+              "RelativeToolTip": "HW18\\Models\\Interfaces\\Products\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:25:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\Products\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Interfaces\\Products\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\Products\\IProductRepository.cs",
+              "RelativeToolTip": "HW18\\Models\\Interfaces\\Products\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:21:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "HW18\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:17:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "HW18\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "HW18\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:16:41.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "HW18\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "HW18\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:26:14.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Interfaces\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\User\\IUserService.cs",
+              "RelativeToolTip": "HW18\\Models\\Interfaces\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:20:25.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HW18\\Models\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:18:48.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InMemmoryDB.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\InMemmoryDB.cs",
+              "RelativeDocumentMoniker": "HW18\\InMemmoryDB.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\InMemmoryDB.cs",
+              "RelativeToolTip": "HW18\\InMemmoryDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:15:52.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Interfaces\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Interfaces\\User\\IUserRepository.cs",
+              "RelativeToolTip": "HW18\\Models\\Interfaces\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:17:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "HW18\\Models\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Models\\Services\\UsersService.cs",
+              "RelativeToolTip": "HW18\\Models\\Services\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:16:35.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "HW18\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\BiG\\OneDrive\\Desktop\\\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06CC\u0633\u06CC\\\u062A\u06A9\u0627\u0644\u06CC\u0641\\HW18\\HW18\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "HW18\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T10:38:45.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

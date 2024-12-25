@@ -1,0 +1,22 @@
+﻿@using HW18.Models.Entities
+@model List<Category>
+<h2>دسته بندی ها</h2>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.Id</td>
+				<td>@item.Name</td>
+				<td>
+					<a asp-action="GetProductsByCategory" asp-controller="Product" asp-route-Id=@item.Id class="btn">Show Products</a>
+				</td>
+			</tr>
+		}
+	</tbody>

@@ -1,0 +1,26 @@
+﻿@using HW18.Models.Entities
+@model List<Product>
+@{
+	ViewData["Title"] = "List of products";
+}
+<h2>لیست محصولات در این دسته بندی</h2>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Price</th>
+			<th>Quantity</th>
+			<th>Category ID</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.Name</td>
+				<td>@item.Price</td>
+				<td>@item.Qty</td>
+				<td>@item.CategoryId</td>
+			</tr>
+		}
+	</tbody>
